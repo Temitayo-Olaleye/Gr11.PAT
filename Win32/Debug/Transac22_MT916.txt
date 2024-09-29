@@ -1,0 +1,10 @@
+TRANSACTION NO: 22
+BookID: 21
+Book Name:	mester
+Customer Name:	MR
+Customer Surname:	T
+Date Borrowed:	05 Nov 2023
+Due Date:	19 Nov 2023
+Date Returned:	05 Nov 2023
+Transaction Complete:	True
+Book is NOT overdue - Fine: 	R0,00

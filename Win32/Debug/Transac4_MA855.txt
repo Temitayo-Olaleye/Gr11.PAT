@@ -1,0 +1,10 @@
+TRANSACTION NO:^4
+BookID:^1
+Book Name:^Uzamaki
+Customer Name:^Mikaeel
+Customer Surname:^Adams
+Date Borrowed:^05 Nov 2023
+Due Date:^19 Nov 2023
+Date_Returned:^05 Nov 2023
+Transaction Complete:^True
+Book is NOT overdue-Fine:^R0,00

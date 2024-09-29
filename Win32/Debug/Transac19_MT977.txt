@@ -1,0 +1,10 @@
+TRANSACTION NO:^19
+BookID:^3
+Book Name:^Spud: The Madness Continues
+Customer Name:^Mr
+Customer Surname:^Test
+Date Borrowed:^06 Nov 2023
+Due Date:^20 Nov 2023
+Date_Returned:^06 Nov 2023
+Transaction Complete:^True
+Book is NOT overdue-Fine:^R0,00

@@ -1,0 +1,10 @@
+TRANSACTION NO:^5
+BookID:^4
+Book Name:^Spud: Learning to Fly
+Customer Name:^Gabriel
+Customer Surname:^Amato
+Date Borrowed:^05 Nov 2023
+Due Date:^19 Nov 2023
+Date_Returned:^05 Nov 2023
+Transaction Complete:^True
+Book is NOT overdue-Fine:^R0,00

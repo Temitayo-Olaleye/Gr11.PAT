@@ -1,0 +1,10 @@
+TRANSACTION NO:^18
+BookID:^19
+Book Name:^Percy Jackson: The Lightning Thief
+Customer Name:^Matthew
+Customer Surname:^Mashiane
+Date Borrowed:^06 Nov 2023
+Due Date:^20 Nov 2023
+Date Returned:^NOT RETURNED
+Transaction Complete:^False
+Book is NOT overdue-Fine:^R0,00

@@ -1,0 +1,6 @@
+CUSTOMER ID: HR101
+Name: Hayden
+Surame: Rowe
+Password: F1ddler#123
+Phone Number: 0713989394
+Fine : R0,00
